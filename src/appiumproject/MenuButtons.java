@@ -12,7 +12,7 @@ import io.appium.java_client.remote.MobilePlatform;
 
 public class MenuButtons {
 	
-	@Test
+	@Test//rahul azmeera
 	public void hello() throws IOException, InterruptedException{
 		 DesiredCapabilities capabiliti=new DesiredCapabilities();
 		 
